@@ -4,7 +4,8 @@
   "description": "A bot",
   "main": "index.js",
   "dependencies": {
-    "botkit": "^0.2.0"
+    "botkit": "^0.2.0",
+    "lodash": "^4.13.1"
   },
   "devDependencies": {},
   "scripts": {
